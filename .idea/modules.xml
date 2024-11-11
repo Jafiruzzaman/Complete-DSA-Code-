@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Interview/Adobe/Adobe.iml" filepath="$PROJECT_DIR$/Interview/Adobe/Adobe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Amazon/Amazon.iml" filepath="$PROJECT_DIR$/Interview/Amazon/Amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Apple/Apple.iml" filepath="$PROJECT_DIR$/Interview/Apple/Apple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Atlassian/Atlassian.iml" filepath="$PROJECT_DIR$/Interview/Atlassian/Atlassian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search Tree/Binary Search Tree.iml" filepath="$PROJECT_DIR$/Binary Search Tree/Binary Search Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neetcode/Blind 75/Blind 75.iml" filepath="$PROJECT_DIR$/Neetcode/Blind 75/Blind 75.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection Framework/Collection Framework.iml" filepath="$PROJECT_DIR$/Collection Framework/Collection Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Collection-Framework/Collection-Framework.iml" filepath="$PROJECT_DIR$/Java/Collection-Framework/Collection-Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Complete DSA with Java.iml" filepath="$PROJECT_DIR$/Complete DSA with Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Google/Google.iml" filepath="$PROJECT_DIR$/Interview/Google/Google.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashmap/Hashmap.iml" filepath="$PROJECT_DIR$/Hashmap/Hashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashset/Hashset.iml" filepath="$PROJECT_DIR$/Hashset/Hashset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap.iml" filepath="$PROJECT_DIR$/Heap/Heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Interview.iml" filepath="$PROJECT_DIR$/Interview/Interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode 75/Leetcode 75.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode 75/Leetcode 75.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/LinkedIn/LinkedIn.iml" filepath="$PROJECT_DIR$/Interview/LinkedIn/LinkedIn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Meta/Meta.iml" filepath="$PROJECT_DIR$/Interview/Meta/Meta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Microsoft/Microsoft.iml" filepath="$PROJECT_DIR$/Interview/Microsoft/Microsoft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neetcode/Neetcode.iml" filepath="$PROJECT_DIR$/Neetcode/Neetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neetcode/Neetcode 150/Neetcode 150.iml" filepath="$PROJECT_DIR$/Neetcode/Neetcode 150/Neetcode 150.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neetcode/Neetcode All/Neetcode All.iml" filepath="$PROJECT_DIR$/Neetcode/Neetcode All/Neetcode All.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Saleforces/Saleforces.iml" filepath="$PROJECT_DIR$/Interview/Saleforces/Saleforces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window/Sliding Window.iml" filepath="$PROJECT_DIR$/Sliding Window/Sliding Window.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Stripe/Stripe.iml" filepath="$PROJECT_DIR$/Interview/Stripe/Stripe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Tiktok/Tiktok.iml" filepath="$PROJECT_DIR$/Interview/Tiktok/Tiktok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/Top 150 Interview/Top 150 Interview.iml" filepath="$PROJECT_DIR$/Leetcode/Top 150 Interview/Top 150 Interview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Uber/Uber.iml" filepath="$PROJECT_DIR$/Interview/Uber/Uber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Walmart/Walmart.iml" filepath="$PROJECT_DIR$/Interview/Walmart/Walmart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/basics/basics.iml" filepath="$PROJECT_DIR$/Java/basics/basics.iml" />
+    </modules>
+  </component>
+</project>
