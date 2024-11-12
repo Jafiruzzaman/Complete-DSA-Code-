@@ -17,5 +17,6 @@ public class patternOne {
       }
       System.out.println();
     }
+    scanner.close();
   }
 }
