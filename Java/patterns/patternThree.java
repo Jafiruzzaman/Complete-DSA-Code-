@@ -11,9 +11,6 @@ public class patternThree {
     System.out.println("Enter of number of row");
     int row = sc.nextInt();
 
-    //col
-    System.out.println("Enter of number of col");
-    int col = sc.nextInt();
 
     // print triangle
     for (int i = 0; i < row; i++) {
