@@ -47,6 +47,7 @@
       <module fileurl="file://$PROJECT_DIR$/Interview/Uber/Uber.iml" filepath="$PROJECT_DIR$/Interview/Uber/Uber.iml" />
       <module fileurl="file://$PROJECT_DIR$/Interview/Walmart/Walmart.iml" filepath="$PROJECT_DIR$/Interview/Walmart/Walmart.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/basics/basics.iml" filepath="$PROJECT_DIR$/Java/basics/basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/pattern-printing/pattern-printing.iml" filepath="$PROJECT_DIR$/Java/pattern-printing/pattern-printing.iml" />
     </modules>
   </component>
 </project>
