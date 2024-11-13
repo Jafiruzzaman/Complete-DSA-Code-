@@ -3,7 +3,11 @@ import java.util.Scanner;
      Link: https://leetcode.com/problems/add-digits/description/
  */
 public class problemOne {
-
+    static int addDigits(int num){
+//        This formula is called Digital Root
+        int ans = 1+(num-1)%9;
+        return ans;
+    }
     public static void main(String[] args) {
         System.out.println("Add two digits");
         Scanner sc = new Scanner(System.in);
