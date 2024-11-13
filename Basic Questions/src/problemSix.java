@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// * Link: https://leetcode.com/problems/palindrome-number/
 public class problemSix {
     static boolean palindromeNumber(int x){
         int reverse= 0;
