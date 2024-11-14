@@ -24,7 +24,7 @@ public class problemThree {
         for (int i = 0; i < arr.length; i++) {
             arr[i] = sc.nextInt();
         }
-        System.out.println("Enter the target elemt");
+        System.out.println("Enter the target element ");
         int x = sc.nextInt();
         int result  =  searchElement(arr,x);
         System.out.print("The array elements are : ");
