@@ -26,5 +26,6 @@ public class problemSix {
         int x = sc.nextInt();
         boolean result = palindromeNumber(x);
         System.out.println("The number is palindrome "+result);
+        sc.close();
     }
 }

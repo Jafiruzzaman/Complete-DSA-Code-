@@ -1,4 +1,4 @@
-package arryBasicProblems;
+package arrayBasicProblems;
 
 import java.util.Scanner;
 
@@ -30,5 +30,7 @@ public class problemSeven {
             System.out.print(+i+" ");
         }
         System.out.println("The missing number is "+result);
+        sc.close();
+
     }
 }

@@ -1,4 +1,4 @@
-package arryBasicProblems;
+package arrayBasicProblems;
 
 // *Link https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
 
@@ -33,6 +33,6 @@ public class problemThree {
         }
         System.out.println();
         System.out.println("Find "+x+" at "+result+" th index");
-
+        sc.close();
     }
 }

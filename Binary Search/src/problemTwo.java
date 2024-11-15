@@ -31,5 +31,6 @@ public class problemTwo {
         System.out.println("After implement binary search ");
         int result = findMinBinarySearch(arr,target);
         System.out.println("The result is "+result);
+        sc.close();
     }
 }

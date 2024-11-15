@@ -1,4 +1,4 @@
-package arryBasicProblems;
+package arrayBasicProblems;
 
 import java.util.Scanner;
 // * link : https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1
@@ -49,5 +49,7 @@ public class problemSix {
         int k = sc.nextInt();
         int result = kthSmallestElement(arr,k);
         System.out.println("The kth smallest element is "+result);
+        sc.close();
+
     }
 }

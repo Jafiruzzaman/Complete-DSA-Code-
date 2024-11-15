@@ -23,5 +23,7 @@ public class patternFive {
         int x = sc.nextInt();
         int result = squareRoot(x);
         System.out.println("The result is "+result);
+        sc.close();
+
     }
 }

@@ -60,5 +60,6 @@ public class problemSix {
         System.out.println("After implement binary search ");
         int result = countElement(arr,target);
         System.out.println("The count of "+target+" is "+result);
+        sc.close();
     }
 }

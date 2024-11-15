@@ -28,5 +28,6 @@ public  class problemThree {
         int x = sc.nextInt();
         int result=reverseInt(x);
         System.out.println("The result is "+result);
+        sc.close();
     }
 }

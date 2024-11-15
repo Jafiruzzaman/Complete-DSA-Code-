@@ -12,5 +12,6 @@ public class problemTwo {
             System.out.println("The year is a leap year");
         }else
             System.out.println("The year is not a leap year");
+        sc.close();
     }
 }

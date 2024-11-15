@@ -34,5 +34,6 @@ public class problemFive {
         System.out.println("After implement binary search ");
         int result = lastOccurrence(arr,target);
         System.out.println("The last index of "+target+" is "+result);
+        sc.close();
     }
 }

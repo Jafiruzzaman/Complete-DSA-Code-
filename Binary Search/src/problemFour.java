@@ -34,5 +34,6 @@ public class problemFour {
         System.out.println("After implement binary search ");
         int result = FindFirstOccurrence(arr,target);
         System.out.println("The First Occurrence of "+target+" is "+result);
+        sc.close();
     }
 }

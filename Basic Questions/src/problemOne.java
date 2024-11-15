@@ -23,5 +23,7 @@ public class problemOne {
            num = ans;
         }
         System.out.println("The result is "+ans);
+        sc.close();
+
     }
 }

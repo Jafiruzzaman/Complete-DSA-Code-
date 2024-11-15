@@ -1,4 +1,4 @@
-package arryBasicProblems;
+package arrayBasicProblems;
 
 import java.util.Scanner;
 
@@ -40,5 +40,6 @@ public class problemFive {
         }
         System.out.println();
         System.out.println("The Second Largest element is "+result);
+        sc.close();
     }
 }

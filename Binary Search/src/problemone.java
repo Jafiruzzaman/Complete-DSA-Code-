@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class problemOne {
+private class problemone {
     static int binarySearch(int[] arr,int target ){
         int start =0;
         int end = arr.length-1;

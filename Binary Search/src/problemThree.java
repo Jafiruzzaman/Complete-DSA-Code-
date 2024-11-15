@@ -46,5 +46,6 @@ public class problemThree {
         System.out.println("After implement binary search ");
         int result = OrderAgnosticBinarySearch(arr,target);
         System.out.println("Implementing order agnostic binary search "+result);
+        sc.close();
     }
 }

@@ -1,4 +1,4 @@
-package arryBasicProblems;
+package arrayBasicProblems;
 
 import java.util.Scanner;
 
@@ -34,5 +34,7 @@ public class problemFour {
             System.out.print(+i+" ");
         }
         System.out.println();
+        sc.close();
+
     }
 }

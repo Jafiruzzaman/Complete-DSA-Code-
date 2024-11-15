@@ -1,4 +1,4 @@
-package arryBasicProblems;
+package arrayBasicProblems;
 
 import java.util.Scanner;
 
@@ -38,6 +38,8 @@ public class problemEight {
             System.out.print("The elements are : ");
         for(int i : brr){
             System.out.print(i+" ");
+        sc.close();
+
         }
     }
 }
