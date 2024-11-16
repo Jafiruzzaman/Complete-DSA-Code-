@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-private class problemone {
+public class problemone {
     static int binarySearch(int[] arr,int target ){
         int start =0;
         int end = arr.length-1;
@@ -31,5 +31,6 @@ private class problemone {
         System.out.println("After implement binary search ");
         int result = binarySearch(arr,target);
         System.out.println("The target index is "+result);
+        sc.close();
     }
 }
